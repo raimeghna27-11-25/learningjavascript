@@ -1,0 +1,18 @@
+const APP_NAME = "PetShop E-commerce";
+const APP_URL = "https://qa.petshop.com";
+let currentEnv,currentTester,currentDate,automation;
+ currentEnv = "QA"; 
+ currentTester = "Meghna Rai";
+ currentDate = "26-04-2024";
+ automation= "Yes";
+ console.log("==========================================");
+ console.log("     TEST ENVIRONMENT CONFIGURATION       ");
+ console.log("==========================================");
+ console.log("");
+ console.log ("App Name: " + APP_NAME);
+console.log ("App URL: " + APP_URL);
+console.log ("Environment: " + currentEnv);
+console.log ("Tester: " + currentTester);
+console.log ("Date: " + currentDate);
+console.log ("Automation Enabled: " + automation);
+console.log ("==========================================");
