@@ -1,0 +1,18 @@
+let firstName = "Meghna";              
+let lastName = "Rai";               
+let userId =1001;             
+let age =28;                      
+let email ="meghna.rai@test.com";
+let isActive =true;              
+let loginCount =15;                 
+let averageScore =87.5;             
+let hasAccess =true; 
+console.log("User Id:"+ userId);
+console.log("Name:",firstName,lastName);
+console.log("Age:",age);
+console.log("Email:" ,email);
+console.log("Profile Status:",isActive);
+console.log("Count:"+ loginCount);
+console.log("Score:",averageScore);
+console.log("Access Status:"+ hasAccess);
+console.log("Access Status:",hasAccess);
